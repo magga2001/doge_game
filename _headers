@@ -1,0 +1,18 @@
+/Build/Doge.framework.js.gz
+  Content-Type: application/javascript
+  Content-Encoding: gzip
+  Cache-Control: max-age=31536000
+
+/Build/Doge.data.gz
+  Content-Type: application/octet-stream
+  Content-Encoding: gzip
+  Cache-Control: max-age=31536000
+
+/Build/Doge.wasm.gz
+  Content-Type: application/wasm
+  Content-Encoding: gzip
+  Cache-Control: max-age=31536000
+
+/Build/Doge.loader.js
+  Content-Type: application/javascript
+  Cache-Control: max-age=31536000
